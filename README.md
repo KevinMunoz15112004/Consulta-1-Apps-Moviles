@@ -1,4 +1,4 @@
-# Deber 2 Apps. Móviles
+# Consulta 1 Apps. Móviles
 
 Implementación de una aplicación con ícono personalizado y un splash screen
 
