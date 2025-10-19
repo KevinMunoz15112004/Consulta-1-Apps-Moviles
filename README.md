@@ -113,7 +113,7 @@ Para este caso se modificó el archivo para solicitar permisos al abrir la cáma
 
 <img width="499" height="83" alt="image" src="https://github.com/user-attachments/assets/b677f7c3-a88d-4f95-a4aa-92155a9dba33" />
 
-Al ingresar a la aplicación y presionar el ícono de la cámara pedirá el respectivo permiso:
+Al ingresar a la aplicación y presionar el botón de la cámara pedirá el respectivo permiso:
 
 <img width="335" height="367" alt="image" src="https://github.com/user-attachments/assets/dd0d5c13-8e4c-4629-8cb5-2eb6e290ce34" />
 
