@@ -103,7 +103,7 @@ Cuando se entra en la App se visualizará primero el ícono y luego el splash sc
 
 Finalmente se muestra la página "Home":
 
-<img width="273" height="539" alt="image" src="https://github.com/user-attachments/assets/659c040b-4baa-423c-8b5e-113e096656b7" />
+<img width="267" height="544" alt="image" src="https://github.com/user-attachments/assets/3229f727-0b89-4102-825e-47375dd6e88d" />
 
 ## Adicional - AndroidManifest.xml
 
